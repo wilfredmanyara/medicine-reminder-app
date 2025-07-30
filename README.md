@@ -1,3 +1,7 @@
+### npm i
+### npx expo start
+APK to view app
+## https://expo.dev/go?sdkVersion=52&platform=android&device=true
 ![1000022180](https://github.com/user-attachments/assets/a151340f-4f3e-485b-8d6f-81255dc83157)
 ![1000022176](https://github.com/user-attachments/assets/49b2f91d-9f10-4fa0-b4f3-ab58ec1989a9)
 ![1000022177](https://github.com/user-attachments/assets/2be0e5e3-1a94-4a25-a3b5-5fe0406dce00)
